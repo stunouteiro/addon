@@ -1,0 +1,767 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD¹" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4420
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",CANAL BRASIL SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6963
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL HD¹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/RB_de_televisao_2021.png" group-title="CANAIS | ABERTO",REDE BRASIL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111117
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="CANAIS | ABERTO",TV SENADO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/119930
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD¹" tvg-logo="https://static.wixstatic.com/media/f4881e_94a0369482fc424983df97e56abde8df~mv2.png/v1/crop/x_49,y_44,w_302,h_236/fill/w_258,h_204,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f4881e_94a0369482fc424983df97e56abde8df~mv2.png" group-title="CANAIS | ABERTO",TERRA VIVA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601507
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA HD¹" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601508
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA MA HD¹" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA MA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638366
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS FHD¹" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA ALAGOAS FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638367
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV GAZETA ARACATUBA HD¹" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA ARACATUBA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638368
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV GAZETA SUL HD¹" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA SUL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638369
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV PIUAI SD¹" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV PIUAI SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638370
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV TOCANTINS FHD¹" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV TOCANTINS FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638371
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD²" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644686
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_canalRURAL.png" group-title="CANAIS | ABERTO",CANAL RURAL
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644692
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD²" tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",CANAL BRASIL SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644693
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/23.png" group-title="CANAIS | ABERTO",TV BRASIL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/60906
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",CANAL BRASIL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/61412
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD¹" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | ABERTO",TV CULTURA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/69134
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO BRASIL HD¹" tvg-logo="https://prostore.app/logos/agro.png" group-title="CANAIS | ABERTO",AGRO BRASIL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/81571
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD¹" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111210
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO HD¹" tvg-logo="https://seeklogo.com/images/T/tv-diario-20-anos-logo-5D43703D6C-seeklogo.com.png" group-title="CANAIS | ABERTO",TV DIARIO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/144100
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA FHD¹" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601509
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD¹" tvg-logo="https://prostore.app/logos/futura1.png" group-title="CANAIS | ABERTO",FUTURA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/604840
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="CANAIS | ABERTO",TV SENADO HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644680
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="TV GAZETA SUL HD²" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA SUL HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644681
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA HD²" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/GAZETA.png" group-title="CANAIS | ABERTO",TV GAZETA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644682
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD²" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | ABERTO",TV CULTURA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644683
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD²" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/23.png" group-title="CANAIS | ABERTO",TV BRASIL HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644684
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD²" tvg-logo="https://static.wixstatic.com/media/f4881e_94a0369482fc424983df97e56abde8df~mv2.png/v1/crop/x_49,y_44,w_302,h_236/fill/w_258,h_204,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f4881e_94a0369482fc424983df97e56abde8df~mv2.png" group-title="CANAIS | ABERTO",TERRA VIVA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644685
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD²" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644687
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD²" tvg-logo="https://prostore.app/logos/futura1.png" group-title="CANAIS | ABERTO",FUTURA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644690
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",CANAL BRASIL HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644694
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND TV RS HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV RS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469462
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND TV BAHIA HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV BAHIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469463
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="BAND TV NORDESTE HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV NORDESTE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469464
+#EXTINF:-1 tvg-id="band.belem.br" tvg-name="BAND TV CASCAVEL PR HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV CASCAVEL PR HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469469
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT RJ HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469479
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT BRASILIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469480
+#EXTINF:-1 tvg-id="tv.difusora.sao.luis.br" tvg-name="SBT MA SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT MA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469485
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT MG HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT MG HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469486
+#EXTINF:-1 tvg-id="tv.guajara.mirim.br" tvg-name="SBT PA GUAJARA HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PA GUAJARA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469489
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PE HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469490
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PR HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469492
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT AM SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT AM SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469505
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469455
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT ALTEROSA MG HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT ALTEROSA MG HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601493
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ CINEMA SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ CINEMA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644620
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ CRIANÇA SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ CRIANÇA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644621
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ HUMOR SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ HUMOR SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644622
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ INFORMACAO SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ INFORMACAO SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644623
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ NOVELAS SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ NOVELAS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644624
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ POP SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ POP SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644625
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SAUDADE HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ SAUDADE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644626
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SERIES SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ SERIES SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644627
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ SILVIO SANTOS SD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ SILVIO SANTOS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644628
+#EXTINF:-1 tvg-id="" tvg-name="SBT+ TVZYN HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT+ TVZYN HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644629
+#EXTINF:-1 tvg-id="band.brasilia.br" tvg-name="BAND TV BRASILIA HD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV BRASILIA HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469461
+#EXTINF:-1 tvg-id="band.porto.alegre.br" tvg-name="BAND TV PA FHD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV PA FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469465
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469477
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT BAHIA FHD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT BAHIA FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469481
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT GOIAS FHD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT GOIAS FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469482
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT INT SP HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT INT SP HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469483
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT NACIONAL HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT NACIONAL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469488
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT RS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469493
+#EXTINF:-1 tvg-id="sbt.santa.catarina.br" tvg-name="SBT SC HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT SC HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469494
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PR HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469497
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND TV SP HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV SP HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/604923
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND TV RJ HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV RJ HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605353
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND TV ARAPUAN SD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV ARAPUAN SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605355
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT SP HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605499
+#EXTINF:-1 tvg-id="sbt.criciuma.br" tvg-name="SBT SCC HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT SCC HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638412
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT INTERNACIONAL HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT INTERNACIONAL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638411
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT SP HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644696
+#EXTINF:-1 tvg-id="sbt.santa.catarina.br" tvg-name="SBT SC HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT SC HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644698
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT RS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644699
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT RJ HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644700
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT PIAUI HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PIAUI HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644701
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT PIAUI HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PIAUI HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638406
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT INT SP HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT INT SP HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644702
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644703
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT GOIAIS HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT GOIAIS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638401
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA HD²" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT BRASILIA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644718
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV SP HD²" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV SP HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644725
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND TV RS HD²" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV RS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644852
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND TV RJ HD²" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV RJ HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644853
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND TV CAMPINAS HD²" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV CAMPINAS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644856
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND TV BAHIA HD²" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV BAHIA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644858
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97372
+#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="GLOBO EPTV CENTRAL SAO CARLOS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CENTRAL SAO CARLOS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97376
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97392
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97396
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RBS TV POA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97407
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV BELEM SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97435
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97438
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97447
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO SJ DO RIO PRETO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SJ DO RIO PRETO SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97450
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO SANTOS TV TRIBUNAS SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SANTOS TV TRIBUNAS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97454
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOOBO TV VERDES MARES SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOOBO TV VERDES MARES SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97458
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO AMAZONICA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZONICA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110879
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110882
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110883
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM TAUBATE HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM TAUBATE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111009
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SANTOS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111010
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RJ SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113807
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RJ SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113808
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo SP SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113818
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo SP SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113819
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113839
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113840
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113846
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113853
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO UBERABA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO UBERABA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/597753
+#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="GLOBO TV FRONTEIRA PAULISTA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV FRONTEIRA PAULISTA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111065
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97439
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="GLOBO NSC TV BLUMENAU SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAU SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605453
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PASSO FUNDO SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605456
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605459
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="GLOBO TV TEM BAURU SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605465
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="GLOBO TV TEM SOROCABA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605472
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605479
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES CE SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES CE SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605697
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO TV REDE AMAZONICA MANAUS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV REDE AMAZONICA MANAUS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605712
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES FORTALEZA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605728
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA S J CAMPOS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605731
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="GLOBO NSC TV CHAPECO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECO SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/606912
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO RBS TV PELOTAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/606915
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113829
+#EXTINF:-1 tvg-id="tv.mirante.cocais.br" tvg-name="GLOBO TV MIRANTES COCAIS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTES COCAIS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/625117
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PIAUI FHD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV PIAUI FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/641983
+#EXTINF:-1 tvg-id="globo.natal.br" tvg-name="GLOBO TV NATAL HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV NATAL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/641984
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CENTRAL SAO CARLOS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CENTRAL SAO CARLOS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643422
+#EXTINF:-1 tvg-id="Globo Now" tvg-name="GLOBO NOW" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NOW
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97393
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653029
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653031
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653041
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653047
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOOBO TV VERDES MARES SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOOBO TV VERDES MARES SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653048
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653049
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653052
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO AMAZONICA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZONICA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97365
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97377
+#EXTINF:-1 tvg-id="globo.internacional.br" tvg-name="GLOBO INTER HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97379
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97391
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97395
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RBS TV POA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97406
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV BELEM HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97434
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97437
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97446
+#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO SANTOS TV TRIBUNAS HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SANTOS TV TRIBUNAS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97453
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97457
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO RECIFE HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RECIFE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110886
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110898
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110900
+#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="GLOBO RBS TV SANTA MARIA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RBS TV SANTA MARIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111017
+#EXTINF:-1 tvg-id="tv.integracao.araxa.br" tvg-name="GLOBO TV INTEGRACAO ARAXA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRACAO ARAXA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111029
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV LIBERAL BELEM HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV LIBERAL BELEM HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111030
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJ DO RIO PRETO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SJ DO RIO PRETO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/111034
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113809
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113810
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ INTERIOR HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ INTERIOR HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113816
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113820
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113821
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113832
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113834
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113841
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113842
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO TV GRANDE MINAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV GRANDE MINAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113848
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/113855
+#EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO UBERABA FHD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO UBERABA FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/597754
+#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110859
+#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="GLOBO EPTV CENTRAL SAO CARLOS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CENTRAL SAO CARLOS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/110860
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="GLOBO RPC CURITIBA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605460
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO JUIZ DE FORA MG HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA MG HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605463
+#EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="GLOBO TV TEM BAURU HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605466
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC TV MARINGA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV MARINGA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605468
+#EXTINF:-1 tvg-id="rpc.cascavel.br" tvg-name="GLOBO RPC CASCAVEL HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CASCAVEL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605470
+#EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="GLOBO TV TEM SOROCABA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605473
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605480
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV SANTA CRUZ HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605482
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES CE HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES CE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605698
+#EXTINF:-1 tvg-id="tv.gazeta.noroeste.br" tvg-name="GLOBO TV GAZETA VIROTORIA ES HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA VIROTORIA ES HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605700
+#EXTINF:-1 tvg-id="globo.maceio.br" tvg-name="GLOBO TV GAZETA ALAGOAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA ALAGOAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605702
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA ES HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA ES HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605704
+#EXTINF:-1 tvg-id="globo.maceio.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA DE ALAGOAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605706
+#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="GLOBO REDE AMAZONICA RIO BRANCO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA RIO BRANCO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605721
+#EXTINF:-1 tvg-id="tv.roraima.br" tvg-name="GLOBO AMAZONICA RORAINOPOLIS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZONICA RORAINOPOLIS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605725
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRACAO UBERLANDIA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO INTEGRACAO UBERLANDIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/605726
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/606911
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="GLOBO NSC TV CHAPECO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/606913
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/614358
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE SAO LUIZ HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE SAO LUIZ HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/625115
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="GLOBO TV NSC BLUMENAU HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV NSC BLUMENAU HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643424
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV NSC CRICIUMA HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV NSC CRICIUMA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643427
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV NSC CRICIUMA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV NSC CRICIUMA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643426
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/606910
+#EXTINF:-1 tvg-id="globo.internacional.br" tvg-name="GLOBO INTER PT HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER PT HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97378
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643820
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653027
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653032
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653034
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653037
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO TV GRANDE MINAS HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV GRANDE MINAS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653038
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653040
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ INTERIOR HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ INTERIOR HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653042
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653045
+#EXTINF:-1 tvg-id="globo.recife.br" tvg-name="GLOBO RECIFE HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO RECIFE HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653046
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/653050
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="+GLOBOSAT HD¹" tvg-logo="https://prostore.app/logos/globosat.png" group-title="CANAIS | GLOBO",+GLOBOSAT HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/75478
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/659394
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO TV TV ANHANGUERA ANAPOLIS HD " tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TV ANHANGUERA ANAPOLIS HD 
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/659396
+#EXTINF:-1 tvg-id="tv.liberal.castanhal.br" tvg-name="GLOBO TV TV LIBERAL CASTANHAL HD" tvg-logo="http://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TV LIBERAL CASTANHAL HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/659397
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TV ANHANGUERA RIO VERDE HD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TV ANHANGUERA RIO VERDE HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/659398
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA PORANGATU HD" tvg-logo="http://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA PORANGATU HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/659399
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO FHD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643821
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4307
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS | FILMES E SERIES",TCM SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4321
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4322
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4328
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4354
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://prostore.app/logos/fx.png" group-title="CANAIS | FILMES E SERIES",FX SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4371
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4393
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4395
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6946
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://prostore.app/logos/wooh.png" group-title="CANAIS | FILMES E SERIES",WOOHOO SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/20453
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/20891
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/61019
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97129
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97156
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97221
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97227
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97583
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97594
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608214
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD ²" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643584
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD ²" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643587
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD ²" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643590
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD ²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643593
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD ²" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS | FILMES E SERIES",TCM SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643597
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD ² " tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL SD ² 
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643600
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD ²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643603
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD ²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643606
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD ²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643609
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD ²" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643612
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD ²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643615
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD ²" tvg-logo="https://prostore.app/logos/fx.png" group-title="CANAIS | FILMES E SERIES",FX SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643619
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD ²" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643622
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD ²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643625
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD ²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643628
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD ²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643631
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/654088
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD ²" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/654090
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/654335
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD ²" tvg-logo="https://prostore.app/logos/tnt.png" group-title="CANAIS | FILMES E SERIES",TNT HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/654336
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/5987
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6072
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6073
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6085
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6101
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://prostore.app/logos/fx.png" group-title="CANAIS | FILMES E SERIES",FX HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6116
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6945
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6961
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/7691
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/7802
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS HD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/7873
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/8139
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/60937
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS | FILMES E SERIES",TCM HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/61003
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://prostore.app/logos/wooh.png" group-title="CANAIS | FILMES E SERIES",WOOHOO HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/75489
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97130
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97155
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE HD" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97582
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608215
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD ²" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643585
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV HD ²" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643588
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD ²" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643591
+#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS HD ²" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643594
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD ²" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS | FILMES E SERIES",TCM HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643598
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD ²" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643601
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD ²" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643604
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD ²" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643607
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD ²" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643610
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD ²" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643613
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD ²" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643616
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD ²" tvg-logo="https://prostore.app/logos/fx.png" group-title="CANAIS | FILMES E SERIES",FX HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643620
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD ²" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643623
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD ²" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643626
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD ²" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643629
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD ²" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643632
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4316
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN SD" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4318
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT SD" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4319
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION SD" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/4320
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/100567
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH SD" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/100574
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH SD ²" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643566
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM SD ²" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643569
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA SD ²" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643572
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN SD ²" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643575
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT SD ²" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643578
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION SD ²" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION SD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643581
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM HD" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6077
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN HD" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6079
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION HD" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/6080
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT HD" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/10247
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/100569
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH HD" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/100576
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH HD ²" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643567
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM HD ²" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643570
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA HD ²" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643573
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN HD ²" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643576
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT HD ²" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643579
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION HD ²" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION HD ²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643582
+#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469815
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV ES HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ES HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129878
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD TV GOIAIS SD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV GOIAIS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129828
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD TV BRASILIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BRASILIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129778
+#EXTINF:-1 tvg-id="TV Record" tvg-name="RECORD TV MANAUS HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV MANAUS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129853
+#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129856
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SANTA CATARINA FHD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SANTA CATARINA FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601483
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SC FHD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SC FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601484
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="RECORD TV PARANA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV PARANA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601485
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CE FHD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV CE FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601486
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129824
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD TV BAHIA SD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BAHIA SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/624933
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ SD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RJ SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643419
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ FHD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RJ FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643421
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD TV GOIAIS SD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV GOIAIS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644670
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ SD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RJ SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644676
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644678
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD TV MINAS FHD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV MINAS FHD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129781
+#EXTINF:-1 tvg-id="record.santos.br" tvg-name="RECORD TV SANTOS E VALE HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SANTOS E VALE HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129862
+#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="RECORD TV ITAPOAN BAHIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ITAPOAN BAHIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129869
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD TV RS HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129786
+#EXTINF:-1 tvg-id="record.cabralia.br" tvg-name="RECORD TV CABRALIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV CABRALIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129873
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV MT HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV MT HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/129883
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="RECORD TV PA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV PA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/469507
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV CAMPINAS HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV CAMPINAS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/601488
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD TV BAHIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BAHIA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/624934
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD TV SP HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV SP HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/624936
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RJ HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/643420
+#EXTINF:-1 tvg-id="recordtv.paulista.br" tvg-name="RECORD TV PAULISTA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV PAULISTA HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638382
+#EXTINF:-1 tvg-id="record.bauru.br" tvg-name="RECORD TV BAURU HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BAURU HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638416
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECORD TV PIUAI HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV PIUAI HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/638380
+#EXTINF:-1 tvg-id="record.belem.br" tvg-name="RECORD TV BELEM HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644668
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD TV BRASILIA HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BRASILIA HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644669
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV MANAUS HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV MANAUS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644671
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD TV RJ HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RJ HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644675
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD TV RS HD²" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV RS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644677
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN BRASIL SD¹" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/57528
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608063
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608139
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS SD¹" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608146
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL SD¹" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608152
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS SD²" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644605
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD²" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644608
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN BRASIL SD²" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644614
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS SD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644617
+#EXTINF:-1 tvg-id="eurochannel.br" tvg-name="EURONEWS EN ESPANOL" tvg-logo="" group-title="CANAIS | NOTICIA",EURONEWS EN ESPANOL
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670700
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EURONEWS EN ENGLISH" tvg-logo="" group-title="CANAIS | NOTICIA",EURONEWS EN ENGLISH
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670701
+#EXTINF:-1 tvg-id="eurochannel.br" tvg-name="EURONEWS EN PORTUGUES" tvg-logo="" group-title="CANAIS | NOTICIA",EURONEWS EN PORTUGUES
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670702
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="FOX NEWS SD" tvg-logo="http://the-img.xyz/images/foxnews_.png" group-title="CANAIS | NOTICIA",FOX NEWS SD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670705
+#EXTINF:-1 tvg-id="" tvg-name="CNN MONEY" tvg-logo="" group-title="CANAIS | NOTICIA",CNN MONEY
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670706
+#EXTINF:-1 tvg-id="" tvg-name="CNN PORTUGAL" tvg-logo="" group-title="CANAIS | NOTICIA",CNN PORTUGAL
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670707
+#EXTINF:-1 tvg-id="" tvg-name="CBN SP" tvg-logo="https://seeklogo.com/images/C/CBN-logo-14286B5C3F-seeklogo.com.png" group-title="CANAIS | NOTICIA",CBN SP
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670708
+#EXTINF:-1 tvg-id="" tvg-name="CNBC BRASIL" tvg-logo="https://telaviva.com.br/wp-content/uploads/2024/03/CNBC.png" group-title="CANAIS | NOTICIA",CNBC BRASIL
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670709
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://the-img.xyz/images/bloomberg_.png" group-title="CANAIS | NOTICIA",BLOOMBERG
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670710
+#EXTINF:-1 tvg-id="" tvg-name="CBN RJ" tvg-logo="https://seeklogo.com/images/C/CBN-logo-14286B5C3F-seeklogo.com.png" group-title="CANAIS | NOTICIA",CBN RJ
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670711
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN BRASIL HD¹" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/44723
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD¹" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/97765
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608065
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608141
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS HD¹" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608148
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD¹" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608153
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN INTERNACIONAL SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL SD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608155
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN INTERNACIONAL HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL HD¹
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608156
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/608178
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS HD²" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644606
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD²" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644609
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN INTERNACIONAL HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644611
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD²" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644613
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN BRASIL HD²" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644615
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS HD²
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/644618
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="FOX NEWS HD" tvg-logo="http://the-img.xyz/images/foxnews_.png" group-title="CANAIS | NOTICIA",FOX NEWS HD
+http://vodteste.com:80/xrwpqjyl/209Uo5vDww/670704
