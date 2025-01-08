@@ -1,12 +1,311 @@
-https://play.embehub.com/GloboSP/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/GLOBO_NORDESTE/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/SBTSP/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/BANDSP/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/REDETV/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/TVBRASIL/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/adult_swim/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/ANIMAL_PLANET/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/AMC/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/FUTURA/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/RECORDSP/tracks-v1/index.fmp4.m3u8
-https://play.embehub.com/CANAL_OFF/tracks-v1/index.fmp4.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Abertos",GloboSP
+https://play.embehub.com/GloboSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",GLOBO_NORDESTE
+https://play.embehub.com/GLOBO_NORDESTE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",SBTSP
+https://play.embehub.com/SBTSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",BANDSP
+https://play.embehub.com/BANDSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",REDETV
+https://play.embehub.com/REDETV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",TVBRASIL
+https://play.embehub.com/TVBRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",adult_swim
+https://play.embehub.com/adult_swim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",ANIMAL_PLANET
+https://play.embehub.com/ANIMAL_PLANET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",AMC
+https://play.embehub.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",FUTURA
+https://play.embehub.com/FUTURA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",RECORDSP
+https://play.embehub.com/RECORDSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",CANAL_OFF
+https://play.embehub.com/CANAL_OFF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",viva
+https://play.embehub.com/viva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",BIS
+https://play.embehub.com/BIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",GNT
+https://play.embehub.com/GNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Abertos",MULTISHOW
+https://play.embehub.com/MULTISHOW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",adult_swim
+https://play.embehub.com/adult_swim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",AMC
+https://play.embehub.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",ANIMAL_PLANET
+https://play.embehub.com/ANIMAL_PLANET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",ARTE1
+https://play.embehub.com/ARTE1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",CANAL_BRASIL
+https://play.embehub.com/CANAL_BRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",DISCOVERY_channel
+https://play.embehub.com/DISCOVERY_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",DISCOVERY_h&h
+https://play.embehub.com/DISCOVERY_h&h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",DISCOVERY_turbo
+https://play.embehub.com/DISCOVERY_turbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",HBO2
+https://play.embehub.com/HBO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",mtv
+https://play.embehub.com/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",national_geographic
+https://play.embehub.com/national_geographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",
+https://play.embehub.com/PARAMOUNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",TNT
+https://play.embehub.com/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",AXN
+https://play.embehub.com/AXN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",FX
+https://play.embehub.com/FX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",HBO
+https://play.embehub.com/HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",HBOFAMILY
+https://play.embehub.com/HBOFAMILY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",HBOPLUS
+https://play.embehub.com/HBOPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",PARAMOUNT
+https://play.embehub.com/PARAMOUNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",space
+https://play.embehub.com/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",sony
+https://play.embehub.com/sony/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",TELECINEACTION
+https://play.embehub.com/TELECINEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",TELECINECULT
+https://play.embehub.com/TELECINECULT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",TELECINEFUN
+https://play.embehub.com/TELECINEFUN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",STUDIO_UNIVERSAL
+https://play.embehub.com/STUDIO_UNIVERSAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",SYFY
+https://play.embehub.com/SYFY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",CINEMAX
+https://play.embehub.com/CINEMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",COMEDY_CENTRAL
+https://play.embehub.com/COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",star_channel
+https://play.embehub.com/star_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",warner
+https://play.embehub.com/warner/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",a&e
+https://play.embehub.com/a&e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",HBOPOP
+https://play.embehub.com/HBOPOP/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",HBOXTREME
+https://play.embehub.com/HBOXTREME/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",DISCOVERY_theater
+https://play.embehub.com/DISCOVERY_theater/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",discovery_tlc
+https://play.embehub.com/discovery_tlc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",/DISCOVERY_world
+https://play.embehub.com/DISCOVERY_world/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",MEGAPIX
+https://play.embehub.com/MEGAPIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",STUDIO_UNIVERSAL
+https://play.embehub.com/STUDIO_UNIVERSAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",TELECINEPREMIUM
+https://play.embehub.com/TELECINEPREMIUM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",TELECINETOUCH
+https://play.embehub.com/TELECINETOUCH/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Filmes e series",lifetime
+https://play.embehub.com/lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",BANDSPORTS
+https://play.embehub.com/BANDSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",ESPN1
+https://play.embehub.com/ESPN1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",ESPN2
+https://play.embehub.com/ESPN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",ESPN3
+https://play.embehub.com/ESPN3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",ESPN4
+https://play.embehub.com/ESPN4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",ESPN5
+https://play.embehub.com/ESPN5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",ESPN6
+https://play.embehub.com/ESPN6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",SPORTTV1
+https://play.embehub.com/SPORTTV1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",SPORTTV2
+https://play.embehub.com/SPORTTV2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",SPORTTV3
+https://play.embehub.com/SPORTTV3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PREMIERE_CLUBES
+https://play.embehub.com/PREMIERE_CLUBES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PREMIERE2
+https://play.embehub.com/PREMIERE2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PREMIERE3
+https://play.embehub.com/PREMIERE3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PREMIERE4
+https://play.embehub.com/PREMIERE4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PREMIERE5
+https://play.embehub.com/PREMIERE5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PREMIERE7
+https://play.embehub.com/PREMIERE7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PARAMOUNT+1
+https://play.embehub.com/PARAMOUNT+1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PARAMOUNT+2
+https://play.embehub.com/PARAMOUNT+2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",PARAMOUNT+3
+https://play.embehub.com/PARAMOUNT+3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",COMBATE
+https://play.embehub.com/COMBATE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",CAZETV1
+https://play.embehub.com/CAZETV1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",CAZETV2
+https://play.embehub.com/CAZETV2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",CAZETV3
+https://play.embehub.com/CAZETV3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",CANALGOAT1
+https://play.embehub.com/CANALGOAT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DISNEY+1
+https://play.embehub.com/DISNEY+1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DISNEY+2
+https://play.embehub.com/DISNEY+2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DISNEY+3
+https://play.embehub.com/DISNEY+3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DISNEY+4
+https://play.embehub.com/DISNEY+4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",Eventos_Extras_01
+https://play.embehub.com/Eventos_Extras_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DAZN_2
+https://panel.embehub.com/DAZN_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DAZN_3
+https://play.embehub.com/DAZN_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DAZN_4
+https://play.embehub.com/DAZN_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",DAZN_5
+https://play.embehub.com/DAZN_5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infatil",DISCOVERY_kids
+https://play.embehub.com/DISCOVERY_kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infatil",disney_channel
+https://play.embehub.com/disney_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infatil",Nickelodeon
+https://play.embehub.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infatil",NICK_JR
+https://play.embehub.com/NICK_JR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infatil",cartoonito
+https://play.embehub.com/cartoonito/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infatil",GLOOB
+https://play.embehub.com/GLOOB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Noticias",BANDNEWS
+https://play.embehub.com/BANDNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Noticias",CNNBRASIL
+https://play.embehub.com/CNNBRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Noticias",JOVEMPANNEWS
+https://play.embehub.com/JOVEMPANNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Noticias",RECORDNEWS
+https://play.embehub.com/RECORDNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Noticias",GLOBONEWS
+https://play.embehub.com/GLOBONEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Adultos",SEXTREME/
+https://play.embehub.com/SEXTREME/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Adultos",Brasileirinhas
+https://play.embehub.com/Brasileirinhas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Adultos",SEXY_HOT
+https://play.embehub.com/SEXY_HOT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Anime
+https://play.embehub.com/Anime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Animeacao
+https://play.embehub.com/Animeacao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",BETPlutoTV
+https://play.embehub.com/BETPlutoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",CineComedia
+https://play.embehub.com/CineComedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",CineDrama
+https://play.embehub.com/CineDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",CineFamilia
+https://play.embehub.com/CineFamilia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",CineRomance
+https://play.embehub.com/CineRomance/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",CineSucessos
+https://play.embehub.com/CineSucessos/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",CineTerror
+https://play.embehub.com/CineTerror/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Comedia
+https://play.embehub.com/Comedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",ComedyCentral
+https://play.embehub.com/ComedyCentral/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",FilmesAcao
+https://play.embehub.com/FilmesAcao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",FilmesNacionais
+https://play.embehub.com/FilmesNacionais/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Investigacao
+https://play.embehub.com/Investigacao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",PlutoKids
+https://play.embehub.com/PlutoKids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Plutonatureza
+https://play.embehub.com/Plutonatureza/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Plutoretro
+https://play.embehub.com/Plutoretro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",PlutoShowsporStingray
+https://play.embehub.com/PlutoShowsporStingray/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pluto",Plutomisterios
+https://play.embehub.com/Plutomisterios/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_vai_que_cola
+https://play.embehub.com/24H_vai_que_cola/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_Xena
+https://play.embehub.com/24H_Xena/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_um_maluco_no_pedaco
+https://play.embehub.com/24H_um_maluco_no_pedaco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_tres_espias_demais
+https://play.embehub.com/24H_tres_espias_demais/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_todo_mundo_odeia_o_chris
+https://play.embehub.com/24H_todo_mundo_odeia_o_chris/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_tartarugas_ninjas
+https://play.embehub.com/24H_tartarugas_ninjas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_Sobrenatural
+https://play.embehub.com/24H_Sobrenatural/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_SMALLVILLE
+https://play.embehub.com/24H_SMALLVILLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_Kenan_e_Kel
+https://play.embehub.com/24H_Kenan_e_Kel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_HeRCULES
+https://play.embehub.com/24H_HeRCULES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_A_PATROA_E_AS_CRIANCAS
+https://play.embehub.com/24H_A_PATROA_E_AS_CRIANCAS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_DOIS_HOMENS_E_MEIO
+https://play.embehub.com/24H_DOIS_HOMENS_E_MEIO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_CAO_CORAGEM
+https://play.embehub.com/24H_CAO_CORAGEM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_Chaves
+https://play.embehub.com/24H_Chaves/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_CHAPOLIM_COLORADO
+https://play.embehub.com/24H_CHAPOLIM_COLORADO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_BREAKING_BAD
+https://play.embehub.com/24H_BREAKING_BAD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_A_GRANDE_FAMILIA
+https://play.embehub.com/24H_A_GRANDE_FAMILIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_x_man
+https://play.embehub.com/24H_x_man/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_tom_e_jerry
+https://play.embehub.com/24H_tom_e_jerry/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_SUPERMAN
+https://play.embehub.com/24H_SUPERMAN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_SUPER_CHOQUE
+https://play.embehub.com/24H_SUPER_CHOQUE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_SOUTH_PARK/
+https://play.embehub.com/24H_SOUTH_PARK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_SCOOBY_DOO
+https://play.embehub.com/24H_SCOOBY_DOO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_POKEMON
+https://play.embehub.com/24H_POKEMON/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_PEPPA_PIG
+https://play.embehub.com/24H_PEPPA_PIG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_OS_SIMPSONS
+https://play.embehub.com/24H_OS_SIMPSONS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_CAVERNA_DO_DRAGAO
+https://play.embehub.com/24H_CAVERNA_DO_DRAGAO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_NARUTO_SHIPPUDEN
+https://play.embehub.com/24H_NARUTO_SHIPPUDEN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_DRAGON_SUPER
+https://play.embehub.com/24H_DRAGON_SUPER/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_DRAGON_BALL
+https://play.embehub.com/24H_DRAGON_BALL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_CHAVES_DESENHO
+https://play.embehub.com/24H_CHAVES_DESENHO/tracks-a1/mono.m3u8
+#EXTINF:-1 group-title="24horas",24H_BOB_ESPONJA
+https://play.embehub.com/24H_BOB_ESPONJA/tracks-v1a1/mono.m3u8
