@@ -106,6 +106,14 @@
 <externallink>https://raw.githubusercontent.com/stunouteiro/addon/refs/heads/main/TVONLINEREDECANASI.XML</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR red]Pix/Ares[/COLOR] [COLOR purple]QrCod[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] [COLOR blue] qrcod [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
 
 
 </channels>
