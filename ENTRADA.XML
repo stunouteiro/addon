@@ -108,8 +108,8 @@
 
 <channel>
 <name>[B][COLOR red]Pix/Ares[/COLOR] [COLOR purple]QrCod[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/qrdaddonares1/qrdaddonares1.jpg</thumbnail>
+<fanart>https://archive.org/download/qrdaddonares1/qrdaddonares1.jpg</fanart>
 <info>[COLOR red] [COLOR blue] qrcod [/COLOR]</info>
 <externallink></externallink>
 </channel>
