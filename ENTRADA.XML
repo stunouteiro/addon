@@ -51,11 +51,19 @@
 </channel>
 
 <channel>
-<name>[B][COLOR purple]Series Turcas[/COLOR] [COLOR red]Dublados e Legendados[/COLOR][/B]</name>
+<name>[B][COLOR yellow]Series Turcas[/COLOR] [COLOR red]Dublados e Legendados[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
 <fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon the crown Filmes [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/stunouteiro/addon/refs/heads/main/SERIESTURCAS.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR green]Series 24HORAS[/COLOR] [COLOR red]Dublados e Legendados[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
+<fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon the crown Filmes [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/stunouteiro/addon/refs/heads/main/SERIES24HORAS.XML</externallink>
 </channel>
 
 <channel>
