@@ -35,6 +35,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR yellow]Filmes Lista01[/COLOR] [COLOR purple]Dublados e Legendados[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
+<fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon the crown Filmes [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/stunouteiro/addon/refs/heads/main/FILMESDIVERSOSLISTA1.XML</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR red]Series 2023[/COLOR] [COLOR purple]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
 <fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
